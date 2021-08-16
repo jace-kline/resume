@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "name": "Jace Kline",
+        "occupation": "Master's Student - University of Kansas",
+        "email": "jace.a.kline@gmail.com",
+        "phone": "913-653-2941"
+    },
+    "sections": {
+        "Skills": [
+            "Development",
+            "DevOps",
+            "Git",
+            "CI/CD",
+            "Linux",
+            "Containers",
+            "Azure DevOps",
+            "Mathematics"
+        ],
+        "Programming Languages": [
+            "Python",
+            "C++",
+            "C",
+            "Haskell",
+            "JavaScript",
+            "Terraform"
+        ]
+    } 
+}

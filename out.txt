@@ -1,0 +1,235 @@
+Jace Kline
+
+ 
+
+ 
+
+(913) 653-2941 • jace.a.kline@gmail.com
+
+Technical Skills
+
+Primary Languages: C++, Python
+
+Other Languages: JavaScript, C, SQL, Rust, Haskell
+
+Technologies: Linux, Git, Docker, Kubernetes, Terraform, Azure DevOps, ReactJS
+
+Strengths: problem solving, reasoning, adaptability, teamwork
+
+Academic Achievements
+
+MS thesis published and presented at the 9th International Conference on Information Systems Security and Privacy (ICISSP 2023)
+
+Moore Award recipient for exceptional MS thesis defense
+
+Scholarship for Service (SFS) scholar
+
+Phi Kappa Phi Honor Society inductee
+
+Undergraduate graduation with honors
+
+Graduate graduation with honors
+
+
+
+Work Experience
+
+Computer Scientist
+
+US Air Force Civilian Service, 38th Engineering Squadron – Tinker AFB, OK
+
+April 2023 – Present
+
+40 Hours/Week
+
+Works to deliver a robust, secure, and resilient cyberspace domain supporting Air Force and Joint missions for the defense of the United States
+
+Provides technical guidance on the development and documentation of the Air Force cyberspace infrastructure
+
+Performs missions to audit and troubleshoot Air Force network and infrastructure operability
+
+
+
+Graduate Teaching Assistant (Operating Systems)
+
+University of Kansas – Lawrence, KS
+
+August 2022 – December 2022
+
+20 Hours/Week
+
+Developed lab assignments and solutions along with supplementary instructional materials
+
+Taught three lab sections per week, held office hours, and responded to student inquiries
+
+Lectured over various operating system-related topics including system calls, signals, processes, forking and piping, threads, inter-process communication, locking mechanisms, scheduling, and memory-mapped I/O
+
+
+
+Graduate Research Assistant
+
+University of Kansas – Lawrence, KS
+
+May 2022 – August 2022
+
+40 Hours/Week
+
+Studied existing literature related to variable and type recovery from binary programs
+
+Constructed a domain-specific language (DSL) in Python for representing binary program elements such as functions, variables, data types, and addresses
+
+Developed a Python translation module for converting DWARF debugging information from Linux binary programs into the defined DSL
+
+Created a Python translation module for converting Ghidra decompiler output for a given Linux binary program into the defined DSL
+
+Leveraged the translation modules and the DSL to implement comparison logic and associated metrics for evaluating the accuracy of decompiler output of Linux binary programs
+
+Conducted an analysis of the accuracy of the Ghidra decompiler over an extensive set of Linux benchmark binaries
+
+
+
+DevOps Intern
+
+Blue Cross Blue Shield of Kansas City – Kansas City, MO
+
+May 2021 – August 2021
+
+40 Hours/Week
+
+Developed Terraform schemas to codify the deployment and teardown of cloud infrastructure
+
+Defined and deployed pipelines in Azure DevOps to automate continuous building, testing, and deployment of environments and applications
+
+Leveraged TypeScript and Python to implement a custom Azure DevOps plugin for interacting with ServiceNow during automated pipeline runs
+
+Worked with the robotic process automation (RPA) team to incorporate source control and pipelines into their development workflow
+
+
+
+Cyber Security Intern
+
+Assured Information Security (AIS) – Rome, NY (Virtual)
+
+June 2020 – August 2020
+
+40 Hours/Week
+
+Highly competitive and rigorous Advanced Course in Engineering (ACE) program
+
+Participated in weekly lectures given by current and former U.S. Air Force cybersecurity experts
+
+Composed weekly technical reports covering the following topics: Systems security engineering, covert channels, buffer overflow attacks, hardware trojans, reverse engineering, penetration testing
+
+Partook in leadership lessons and assignments led by a retired U.S. Air Force Colonel
+
+Completed a sensitive research project for a classified U.S. government agency
+
+Engaged in weekly simulated cyber security missions emphasizing leadership, teamwork, planning, infrastructure preparation, and real-time action and response in a contested cyber environment
+
+Gave frequent technical presentations over weekly technical reports and research progress
+
+Excelled in the weekly 8-mile run, achieving one of the best times in the history of ACE
+
+
+
+Information Technology Intern
+
+Sprint Corp. – Overland Park, KS
+
+May 2019 – August 2019
+
+40 Hours/Week
+
+Utilized Docker, Kubernetes, and RedHat Openshift to deploy an existing marketing application as a proof-of-concept in a cloud-based environment
+
+Produced a detailed 75-page report covering the general microservices landscape, details regarding the targeted application in such an environment, the costs and benefits of such a transition, and suggestions regarding a potential transition. This saved the team over two months of work and research.
+
+Gained quality experience in navigating and managing enterprise Linux servers
+
+Mathematics Tutor
+
+University of Kansas – Lawrence, KS
+
+January 2018 – May 2019
+
+10 Hours/Week
+
+Conducted group tutoring sessions of 2-5 students in Calculus
+
+Developed practice problems, techniques, and explanations to help facilitate students' learning
+
+Strengthened public speaking, presentation, and problem-solving skills
+
+Sales Engineer Intern
+
+Carrier Enterprise (Comfort Products) – Lenexa, KS
+
+May 2018 – August 2018
+
+40 Hours/Week
+
+Compiled customer specifications and constraints to develop intricate pricing on equipment
+
+Experience in serving customers, answering phone calls, and resolving real-time issues
+
+
+
+Education
+
+Master of Science (Computer Science)
+
+University of Kansas – Lawrence, KS
+
+August 2021 – December 2022
+
+GPA: 4.0
+
+Graduation with Honors
+
+Thesis: A Framework for Assessing Decompiler Inference Accuracy of Source-Level Program Constructs
+
+Developed a framework for assessing decompiler tools with respect to the recovery and inference accuracy of high-level program constructs, namely functions, variables, and data types
+
+Leveraged the evaluation framework to assess the Ghidra decompiler, finding two key areas for improvement
+
+Published and presented at the 9th International Conference on Information Systems Security and Privacy (ICISSP 2023)
+
+Coursework: Cryptography and Computer Security, Mobile Security, Communication Networks, Software Reverse Engineering, IoT Security, Information Retrieval, Software Modeling & Analysis
+
+
+
+Bachelor of Science (Computer Science), Minor (Mathematics)
+
+University of Kansas – Lawrence, KS
+
+August 2017 – May 2021
+
+GPA: 3.98
+
+Honor Roll all semesters
+
+Graduation with honors
+
+Computer Science Coursework: Programming 1 & 2, Programming Language Paradigms, Software Engineering, Digital Logic Design, Embedded Systems, Data Structures, Information and Computer Security, Operating Systems, Functional Programming and DSLs, Computer Science Design, Computer Architecture, Programming Languages, Compiler Construction, Algorithms, Databases, Data Science, Theory of Computing
+
+Mathematics Coursework: Discrete Mathematics, Calculus 1-3, Linear Algebra, Differential Equations, Probability and Statistics, Abstract Algebra, Mathematics of Data Science
+
+
+
+High School Diploma
+
+Olathe Northwest High School – Olathe, KS
+
+August 2013 – May 2017
+
+GPA: 4.0
+
+Kansas Honor Scholar
+
+National Honor Society
+
+Aerospace and Engineering Program
+
+Collaborated with a team of 7 students to build a wheelchair costume for a local area boy. Showcased this costume at the Comicon convention in Kansas City, MO in the spring of 2017. Received an Olathe Community Award for the efforts.
+
+Varsity sports: basketball, golf

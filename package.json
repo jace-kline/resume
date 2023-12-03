@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This repository houses the JSON template for my resume, convertable into any \"display\" format. The purpose is to decouple the content of the resume from the view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "resume-cli": "^3.0.8",
+    "resumed": "^3.0.1"
+  }
+}
